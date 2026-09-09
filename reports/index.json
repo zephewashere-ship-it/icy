@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-224844-7veu",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-09T02:48:44.000Z",
+      "dateEnd": "2026-09-09T03:16:26.691Z",
+      "dateLabel": "9/8/2026, 10:48:44 PM - 9/8/2026, 11:16:26 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260908-224844-7veu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260903-213454-cf01",
       "title": "Georqe",
       "commanders": [
