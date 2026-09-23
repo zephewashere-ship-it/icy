@@ -2,7 +2,37 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260922-221938-7rk6",
+      "title": "Gecrge, Georqe",
+      "commanders": [
+        "Gecrge",
+        "Georqe"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-09-23T02:19:38.000Z",
+      "dateEnd": "2026-09-23T02:59:50.561Z",
+      "dateLabel": "9/22/2026, 10:19:38 PM - 9/22/2026, 10:59:50 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20260922-221938-7rk6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
     {
       "id": "20260917-222620-tpmk",
       "title": "Georqe",
