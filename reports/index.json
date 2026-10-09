@@ -3,7 +3,50 @@
   "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261008-221011-wv54",
+      "title": "Gecrge",
+      "commanders": [
+        "Gecrge"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-10-09T02:10:11.000Z",
+      "dateEnd": "2026-10-09T02:46:37.020Z",
+      "dateLabel": "10/8/2026, 10:10:11 PM - 10/8/2026, 10:46:37 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20261008-221011-wv54",
+      "publishedBy": "zephewashere-ship-it",
+      "summary": {
+        "borderlandsPct": 0.2708333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20261001-222808-ypjc",
       "title": "Georqe",
