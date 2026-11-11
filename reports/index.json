@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261110-222606-f6zr",
+      "title": "Gècrge",
+      "commanders": [
+        "Gècrge"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-11-11T03:26:06.000Z",
+      "dateEnd": "2026-11-11T04:14:11.889Z",
+      "dateLabel": "11/10/2026, 10:26:06 PM - 11/10/2026, 11:14:11 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20261110-222606-f6zr",
+      "publishedBy": "zephewashere-ship-it",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261110-222606-zjk4",
       "title": "Gècrge",
       "commanders": [
