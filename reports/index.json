@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261118-215128-dw3u",
+      "title": "Georqe",
+      "commanders": [
+        "Georqe"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-11-19T02:51:28.000Z",
+      "dateEnd": "2026-11-19T03:26:30.558Z",
+      "dateLabel": "11/18/2026, 9:51:28 PM - 11/18/2026, 10:26:30 PM",
+      "url": "https://zephewashere-ship-it.github.io/icy/?report=20261118-215128-dw3u",
+      "publishedBy": "zephewashere-ship-it",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20261110-222606-f6zr",
       "title": "Gècrge",
